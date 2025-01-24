@@ -1,2 +1,2 @@
-# KUX-TII
-Heterogeneous Underwater Code and Utilty
+# Robotic SWARM
+Heterogeneous Underwater Code and Utility
