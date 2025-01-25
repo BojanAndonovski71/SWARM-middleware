@@ -31,9 +31,7 @@ Ensure you have Python 3.8+ installed.
 Install required dependencies:
 pip install -r requirements.txt
 
-Build the Middleware:
-Use the provided build script:
-./build.sh
+
 
 
 
