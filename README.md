@@ -22,6 +22,29 @@ Ensure you have Python 3.8+ installed.
 Install required dependencies:
 pip install -r requirements.txt
 
+## Contributing
+We welcome contributions to enhance this project. To contribute:
+
+Fork the repository.
+1. Create a new branch:
+```
+git checkout -b feature/your-feature-name
+```
+2. Make your changes and commit:
+```
+git commit -m "Add feature/your-feature-name"
+```
+3. Push to the branch and create a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any inquiries or support, feel free to reach out:
+
+Author: Bojan Andonovski
+GitHub: BojanAndonovski71
+
 
 
 
